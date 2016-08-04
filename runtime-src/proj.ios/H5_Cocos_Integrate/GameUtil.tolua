@@ -1,0 +1,7 @@
+
+$#include "LuaHelper.h"
+
+class LuaHelper
+{
+    static LUA_STRING back2App();
+};
